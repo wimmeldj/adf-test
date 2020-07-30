@@ -1,0 +1,9 @@
+{
+	"name": "p0",
+	"properties": {
+		"description": "pipeline 0",
+		"annotations": [
+			"some annotation"
+		]
+	}
+}
