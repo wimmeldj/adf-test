@@ -1,0 +1,7 @@
+{
+	"name": "integrationRuntime0",
+	"properties": {
+		"type": "SelfHosted",
+		"description": "ir description"
+	}
+}
